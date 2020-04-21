@@ -1,0 +1,20 @@
+<? 
+	$MESS["VBCHBB_SAA_NAV"]="Бонусные счета";
+	$MESS["VBCH_BB_SAA_USER1"]="Пользователь";
+	$MESS["VBCHBB_SAA_SUM"]="Количество бонусов";
+	$MESS["VBCHBB_SAAN_TRANSACT"]="Транзакции";
+	$MESS["VBCHBB_SAA_USER_INFO"]="Профайл пользователя";
+	$MESS["VBCHBB_SAA_MAILTO"]="Написать письмо";
+	$MESS["VBCHBB_SAA_USER_ID"]="ID пользователя";
+	$MESS["VBCHBB_SAA_USER_LOGIN"]="Логин пользователя";
+	$MESS["VBCHBB_SAA_CURRENCY"]="Валюта";
+	$MESS["VBCHBB_SAA_USER"]="Пользователь";
+	$MESS["SAA_TITLE"]="Бонусы пользователей";
+	$MESS["BB_ADD_TITLE"]="Добавить счет пользователя";
+	$MESS["VBCH_BB_ADD_C"]="Добавить счет";
+	$MESS["bonus_act_edit"]="Редактировать счет";
+	$MESS["bonus_act_del"]="Удалить счет";
+	$MESS["bonus_del_err"]="Ошибка удаления";
+	$MESS["bonus_act_del_conf"]="Вы действительно хотите удалить бонусный счет?";
+    $MESS['VBCHBB_SAAN_TRANSACTUSER']='Транзакции пользователя';
+    $MESS['VBCHBB_SAAN_BONUSACCOUNTSID']='Бонусный счет';

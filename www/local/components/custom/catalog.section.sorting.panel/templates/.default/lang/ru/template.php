@@ -1,0 +1,9 @@
+<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die(); ?>
+<?
+$MESS["CSSORTINGPANEL_VIEW_GRID"] = "Сетка";
+$MESS["CSSORTINGPANEL_VIEW_LIST"] = "Список";
+$MESS["CSSORTINGPANEL_SORTING"] = "Сортировать:";
+$MESS["CSSORTINGPANEL_SORTING_ALPHABET"] = "По алфавиту";
+$MESS["CSSORTINGPANEL_SORTING_PRICE"] = "По Цене";
+$MESS["CSSORTINGPANEL_ELEMENT_COUNT"] = "На странице:";
+?>

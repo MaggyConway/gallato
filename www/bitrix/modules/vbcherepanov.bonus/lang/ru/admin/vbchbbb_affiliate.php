@@ -1,0 +1,22 @@
+<?
+$MESS["VBCHBB_SAA_USER_ID"]="ID Партнера";
+$MESS["bonus_aff_act_active"]="Активировать";
+$MESS["bonus_aff_act_del"]="Удалить";
+$MESS["bonus_aff_act_del_conf"]="Удалить партнера?";
+$MESS["VBCHBB_SAA_USER_INFO"]="информация о пользователе";
+$MESS["VBCHBB_SAA_MAILTO"]="EMail пользователя";
+$MESS["VBCH_BONUS_YES"]="Да";
+$MESS["VBCH_BONUS_NO"]="Нет";
+$MESS["VBCHBB_AFF_COMMISIAPROMO"]="Комиссия с промокодом";
+$MESS["VBCHBB_AFF_COMMISIA"]="Стандартная комиссия";
+$MESS["VBCHBB_AFF_DOMAINE"]="Домен партнера";
+$MESS["VBCHBB_AFF_PROMOCODE"]="Именной промокод";
+$MESS["VBCHBB_AFF_ACTIVE_TO"]="Активен до";
+$MESS["VBCHBB_AFF_EDIT_NAME"]="Имя партнера";
+$MESS["VBCHBB_AFF_ACTIVE_FROM"]="Активен с";
+$MESS["VBCHBB_BONUS_USERID"]="ID партнера";
+$MESS["VBCHBB_BONUS_BONUS"]="Бонус партнеру";
+$MESS["VBCHBB_BONUS_ACTIVE"]="Активность";
+$MESS["VBCHBB_BONUS_LID"]="Сайт";
+$MESS["VBCHBB_BONUS_TIMESTAMP"]='Изменено';
+$MESS["VBCH_AFF_ADD_C"]="Добавить партнера";

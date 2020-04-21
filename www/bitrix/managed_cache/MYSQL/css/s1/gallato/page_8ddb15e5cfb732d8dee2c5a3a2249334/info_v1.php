@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/gallato/components/bitrix/news/news_page/bitrix/news.detail/detail_new/style.css" => "15870267856284",); ?>

@@ -1,0 +1,10 @@
+<?
+$MESS ['VBCHBB_SAA_DOUBLE_NAV'] = 'Double entry';
+$MESS ['VBCHBB_BONUS_DOUBLE_TIMESTAMP'] = 'Date of creation';
+$MESS ['VBCHBB_BONUS_DOUBLE_USER_ID'] = 'User';
+$MESS ['VBCHBB_BONUS_DOUBLE_DEBIT'] = 'Debit';
+$MESS ['VBCHBB_BONUS_DOUBLE_CREDIT'] = 'Credit';
+$MESS ['VBCHBB_BONUSINNER_NAME'] = 'Bonus Account';
+$MESS ['VBCHBB_BONUS_DOUBLE_ORG'] = 'Enterprise';
+$MESS ['VBCHBB_SAA_USER_ID'] = 'User';
+$MESS ['VBCHBB_BONUSINNER_NAME'] = 'Bonus Account';

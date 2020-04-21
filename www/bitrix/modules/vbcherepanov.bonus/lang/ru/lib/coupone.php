@@ -1,0 +1,26 @@
+<?
+$MESS["COUPON_ENTITY_ID_FIELD"] = "ID";
+$MESS["COUPON_ENTITY_ACTIVE_FIELD"] = "Активен";
+$MESS["COUPON_ENTITY_ACTIVE_FROM_FIELD"] = "Активен с";
+$MESS["COUPON_ENTITY_ACTIVE_TO_FIELD"] = "Активен по";
+$MESS["COUPON_ENTITY_COUPON_FIELD"] = "Купон";
+$MESS["COUPON_ENTITY_TYPE_FIELD"] = "Тип купона";
+$MESS["COUPON_ENTITY_MAX_USE_FIELD"] = "Максимальное количество использования";
+$MESS["COUPON_ENTITY_USE_COUNT_FIELD"] = "Использовался раз";
+$MESS["COUPON_ENTITY_USER_ID_FIELD"] = "Пользователь";
+$MESS["COUPON_ENTITY_TIMESTAMP_X_FIELD"] = "Создано";
+$MESS["COUPON_ENTITY_MODIFIED_BY_FIELD"] = "Изменено";
+$MESS["COUPON_ENTITY_DATE_CREATE_FIELD"] = "Дата создания";
+$MESS["COUPON_ENTITY_CREATED_BY_FIELD"] = "Кем создан";
+$MESS["COUPON_ENTITY_DESCRIPTION_FIELD"] = "ОПисание";
+$MESS["COUPON_ENTITY_BONUS_FIELD"] = "Начислить бонусов";
+$MESS["COUPON_ENTITY_BONUSLIVE_FIELD"] = "Время жизни бонусов";
+$MESS["COUPON_ENTITY_BONUSACTIVE_FIELD"] = "Активность бонусов";
+$MESS["COUPON_ENTITY_BONUSACCOUNTSID_FIELD"] = "Бонусный счет";
+$MESS['BONUS_COUPON_TABLE_TYPE_ONE_ORDER']='Одноразовый';
+$MESS['BONUS_COUPON_TABLE_TYPE_MULTI_ORDER']='Многоразовый';
+$MESS['BONUS_COUPON_TABLE_COUPON_EMPTY']='Не введен купон';
+$MESS['BONUS_COUPON_TABLE_USER_ID_BAD']='Не верный ID пользователя';
+$MESS['BONUS_COUPON_TABLE_USER_ID_NOT']='Не совпадает пользователь';
+$MESS['BONUS_COUPON_TABLE_TRANSACATION_DESCRIPTION']='Начисление бонусов по купону #COUPON#';
+$MESS['BONUS_COUPON_TABLE_COUPON_NOTFOUND']='Купон не найден';

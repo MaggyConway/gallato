@@ -1,0 +1,10 @@
+<?
+$MESS['VBCHBB_SAA_DOUBLE_NAV']='Двойная запись';
+$MESS['VBCHBB_BONUS_DOUBLE_TIMESTAMP']='Дата создания';
+$MESS['VBCHBB_BONUS_DOUBLE_USER_ID']='Пользователь';
+$MESS['VBCHBB_BONUS_DOUBLE_DEBIT']='Дебет';
+$MESS['VBCHBB_BONUS_DOUBLE_CREDIT']='Кредит';
+$MESS['VBCHBB_BONUSINNER_NAME']='Бонусный счет';
+$MESS['VBCHBB_BONUS_DOUBLE_ORG']='Предприятие';
+$MESS['VBCHBB_SAA_USER_ID']='Пользователь';
+$MESS['VBCHBB_BONUSINNER_NAME']='Бонусный счет';

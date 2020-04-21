@@ -1,0 +1,33 @@
+<?php
+$MESS['VBBB_HISTORY_FIRST_TITLE']='Бонусы сайта';
+$MESS['VBBB_HISTORY_NOTIF']='Уведомления:';
+$MESS['VBBB_HISTORY_NOTIFIEMAIL']='На электронную почту';
+$MESS['VBBB_HISTORY_NOTIFSMS']='СМС информирование';
+$MESS['VBBB_HISTORY_BONUSLIVE']='Бонусы действительны:';
+$MESS['VBBB_HISTORY_D']='дней';
+$MESS['VBBB_HISTORY_W']='недель';
+$MESS['VBBB_HISTORY_M']='месяцев';
+$MESS['VBBB_HISTORY_Y']='лет';
+$MESS['VBBB_HISTORY_BONUSREG']='Бонусы при регистрации: #COUNT#';
+$MESS['VBBB_HISTORY_BIRTHDAY']='Бонусы на день рождение: #COUNT#';
+$MESS['VBBB_HISTORY_DISCOUNTOFF']='Товары со скидками не участвуют';
+$MESS['VBBB_HISTORY_SUMMTOTAL']='В итоговой цене заказа оплата бонусами не учитывается';
+$MESS['VBBB_HISTORY_PAYPART']='Оплата части стоимости заказа: #PAYPART#';
+$MESS['VBBB_HISTORY_FIRSTORDER']='Бонус за первый заказ:#COUNT#';
+$MESS['VBBB_HISTORY_ORDERTABLE']='Таблица бонусов при оплате заказа';
+$MESS['VBBB_HISTORY_SUMMFROM']='Сумма заказа от';
+$MESS['VBBB_HISTORY_SUMMTO']='Сумма заказа до';
+$MESS['VBBB_HISTORY_PAY']='Оплата';
+$MESS['VBBB_HISTORY_DELIVERY']='Доставка';
+$MESS['VBBB_HISTORY_BONUSORDER']='Бонус за заказ';
+$MESS['VBBB_HISTORY_OFFEROFF']='Товары не участвующие:';
+$MESS['VBBB_HISTORY_SUBSCRIBE']='Бонусы за подписку на рассылку: #COUNT#';
+$MESS['VBBB_HISTORY_REVIEWSBONUS']='Бонусы за отзывы';
+$MESS['VBBB_HISTORY_BONUSOF']='Бонусы за ';
+$MESS['VBBB_HISTORY_BONUSDELAY']='Интервал от начисления до активации бонуса';
+$MESS['VBBB_HISTORY_BONUSSUMMAS']='Бонусы тем, у кого сумма всех заказов Больше или равна';
+$MESS['VBBB_HISTORY_BONUSPOROG']='Порог начисления бонусов';
+$MESS['VBBB_HISTORY_BONUSUSERGROUP']='Бонусы начисляются пользователям в группах';
+$MESS['VBBB_HISTORY_BONUSSALEPERSON']='Вид плательщика:';
+$MESS['VBBB_HISTORY_SECTION']='Участвуют товары из разделов:';
+?>

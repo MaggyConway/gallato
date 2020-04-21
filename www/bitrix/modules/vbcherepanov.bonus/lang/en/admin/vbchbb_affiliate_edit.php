@@ -1,0 +1,22 @@
+<?php
+$MESS ["VBCHBB_AFF_EDIT_UPDATING"] = "Edit Partner";
+$MESS ["VBCHBB_AFF_EDIT_ADDING"] = "Add Partner";
+$MESS ["VBCHBB_AFF_EDITN_2FLIST"] = "List of partners";
+$MESS ["VBCHBB_AFF_EDITN_NEW_ACCOUNT"] = "Add Partner";
+$MESS ["VBCHBB_AFF_EDITN_DELETE_ACCOUNT"] = "Delete Partner";
+$MESS ["VBCHBB_AFF_EDITN_DELETE_ACCOUNT_CONFIRM"] = "Would you really delete a partner?";
+$MESS ["VBCHBB_AFF_EDIT_ERROR"] = "Error editing partner";
+$MESS ["VBCHBB_AFF_EDITN_TAB_ACCOUNT_DESCR"] = "edit partner data";
+$MESS ["VBCHBB_AFF_EDIT_ACTIVE"] = "Activity";
+$MESS ["VBCHBB_AFF_EDIT_TIMESTAMP"] = "Changed";
+$MESS ["VBCHBB_AFF_EDIT_NAME"] = "Partner Name";
+$MESS ["VBCHBB_AFF_EDIT_SITE"] = "Binding to the site";
+$MESS ["VBCHBB_AFF_EDIT_PROMOCODE"] = "Named promotional code";
+$MESS ["VBCHBB_AFF_EDIT_DOMAINE"] = "Partner Domain";
+$MESS ["VBCHBB_AFF_EDIT_URL"] = "Link with tag <br/> new link in new line";
+$MESS ["VBCHBB_AFF_EDIT_COMMISIA"] = "Standard Commission";
+$MESS ["VBCHBB_AFF_EDIT_COMMISIAPROMO"] = "Commission with promo code";
+$MESS ["VBCHBB_AFF_EDIT_ACTIVE_FROM"] = "Active from";
+$MESS ["VBCHBB_AFF_EDIT_ACTIVE_TO"] = "Active by";
+$MESS ["VBCHBB_AFF_EDIT_BONUS"] = "Bonus Partner";
+$MESS ["VBCHBB_AFF_EDIT_USERID"] = "Partner ID";

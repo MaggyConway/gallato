@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/vbcherepanov.bonus/admin/vbchbb_profiles_edit.php");?>

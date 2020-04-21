@@ -1,0 +1,22 @@
+<?
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_UPDATING']='Редактировать бонусный счет';
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_ADDING']='Добавить бонусный счет';
+$MESS['VBCHBB_BONUSACCOUNT_EDITN_2FLIST']='Список бонусных систем';
+$MESS['VBCHBB_ACCOUNT_EDITN_NEW_ACCOUNT']='';
+$MESS['VBCHBB_ACCOUNT_EDITN_NEW_ACCOUNT_TITLE']='';
+$MESS['VBCHBB_BONUSACCOUNT_EDITN_DELETE_ACCOUNT']='Удалить';
+$MESS['VBCHBB_BONUSACCOUNT_EDITN_DELETE_ACCOUNT_CONFIRM']='Вы действительно хотите удалить данный бонусный счет';
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_ERROR']='Ошибка редактирования бонусного счета';
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_TIMESTAMP']='Создано (обновлено)';
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_NAME']='Наименование';
+$MESS['VBCHBB_BONUSACCOUNT_EDIT_SITE']='Привязка к сайту';
+$MESS['VBCHBB_ACCOUNT_EDIT_ACTIVE']='Активность';
+$MESS['VBCHBB_ACCOUNT_EDIT_SETTINGS']='Настройка (валюта)';
+$MESS['VBCHBB_BONUSACCOUNT_EDITN_TAB_ACCOUNT_DESCR']='При создании бонусного счета будет создана Платежная система и привязана автоматически';
+$MESS["VBCHBONUS_NAME_NAME"]="Задать свое название";
+$MESS["VBCHBONUS_NAME_DEFAULT"]="Выбрать название бонуса";
+$MESS["VBCHBONUS_NAME_CURRENCY"]="Выбрать из списка валют";
+$MESS["VBCHBONUS_A"]="бонус";
+$MESS["VBCHBONUS_B"]="бонуса";
+$MESS["VBCHBONUS_C"]="бонусов";
+$MESS["VBCHBONUS_NAME_DEFAULT"]="Выбрать название бонуса";

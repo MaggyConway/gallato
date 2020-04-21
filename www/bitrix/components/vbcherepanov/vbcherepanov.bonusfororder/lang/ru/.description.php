@@ -1,0 +1,4 @@
+<?
+$MESS ['VBCH_BONUSFORORDER_COMPONENT_NAME'] = "Бонусы за заказ";
+$MESS ['VBCH_BONUSFORORDER_COMPONENT_DESCRIPTION'] = "Вывод общего бонуса за заказ";
+$MESS ['VBCH_BONUSFORORDER_COMP_ACCOUNT_ROOT'] = "Компоненты IT-Round";

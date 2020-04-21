@@ -1,0 +1,26 @@
+<?
+$MESS ["VBCHBB_SAA_NAV"] = "Bonuses";
+$MESS ["VBCHBB_BONUS_TIMESTAMP"] = "Created";
+$MESS ["VBCHBB_BONUS_LID"] = "Website";
+$MESS ["VBCHBB_BONUS_ACTIVE"] = "Activity";
+$MESS ["VBCHBB_BONUS_BONUS"] = "Bonus";
+$MESS ["VBCHBB_BONUS_USERID"] = "User";
+$MESS ["VBCHBB_BONUS_ACTIVE_FROM"] = "Active from";
+$MESS ["VBCHBB_BONUS_ACTIVE_TO"] = "Active by";
+$MESS ["VBCHBB_BONUS_DESCRIPTION"] = "Description";
+$MESS ["VBCHBB_BONUS_TYPE"] = "Bonus Type";
+$MESS ["VBCHBB_BONUS_OPTIONS"] = "Additional description";
+$MESS ["VBCHBB_SAA_USER_INFO"] = "User Profile";
+$MESS ["VBCHBB_SAA_MAILTO"] = "Write a letter";
+$MESS ["SAA_TITLE"] = "Bonus History";
+$MESS ["VBCHBB_SAA_USER_ID"] = "User ID";
+$MESS ["VBCHBB_SAA_USER_LOGIN"] = "Login";
+$MESS ["VBCHBB_SAA_TYPE"] = "Bonus Type";
+$MESS ["VBCHBB_SAA_USER"] = "User";
+$MESS ["VBCH_BONUS_YES"] = "Yes";
+$MESS ["VBCH_BONUS_NO"] = "No";
+$MESS ['bonus_act_del'] = 'Delete';
+$MESS ['bonus_act_active'] = 'Activate Transaction';
+$MESS ['VBCHBB_BONUS_SORT'] = 'Sort deduction';
+$MESS ['VBCHBB_BONUS_PARTPAY'] = 'Partial payment';
+$MESS ['VBCHBB_BONUSINNER_NAME'] = 'Bonus Account';

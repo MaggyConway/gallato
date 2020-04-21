@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/gallato/components/custom/system.auth.form/main/style.css" => "1587026786424",); ?>

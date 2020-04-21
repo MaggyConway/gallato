@@ -1,0 +1,26 @@
+<? 
+$MESS["VBCHBB_SAA_NAV"]="Бонусы";
+$MESS["VBCHBB_BONUS_TIMESTAMP"]="Создано";
+$MESS["VBCHBB_BONUS_LID"]="Сайт";
+$MESS["VBCHBB_BONUS_ACTIVE"]="Активность";
+$MESS["VBCHBB_BONUS_BONUS"]="Бонус";
+$MESS["VBCHBB_BONUS_USERID"]="Пользователь";
+$MESS["VBCHBB_BONUS_ACTIVE_FROM"]="Активен с";
+$MESS["VBCHBB_BONUS_ACTIVE_TO"]="Активен по";
+$MESS["VBCHBB_BONUS_DESCRIPTION"]="Описание";
+$MESS["VBCHBB_BONUS_TYPE"]="Тип бонуса";
+$MESS["VBCHBB_BONUS_OPTIONS"]="Доп.описание";
+$MESS["VBCHBB_SAA_USER_INFO"]="Профайл пользователя";
+$MESS["VBCHBB_SAA_MAILTO"]="Написать письмо";
+$MESS["SAA_TITLE"]="История бонусов";
+$MESS["VBCHBB_SAA_USER_ID"]="ID Пользователя";
+$MESS["VBCHBB_SAA_USER_LOGIN"]="Логин";
+$MESS["VBCHBB_SAA_TYPE"]="Тип бонусов";
+$MESS["VBCHBB_SAA_USER"]="Пользователь";
+$MESS["VBCH_BONUS_YES"]="Да";
+$MESS["VBCH_BONUS_NO"]="Нет";
+$MESS['bonus_act_del']='Удалить';
+$MESS['bonus_act_active']='Активировать транзакцию';
+$MESS['VBCHBB_BONUS_SORT']='Сортировка списания';
+$MESS['VBCHBB_BONUS_PARTPAY']='Частичная оплата';
+$MESS['VBCHBB_BONUSINNER_NAME']='Бонусный счет';

@@ -1,0 +1,1 @@
+<?require_once ($_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/vbcherepanov.bonus/admin/vbchbb_coupone_statistic.php');?>

@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/gallato/components/bitrix/sale.basket.basket/main/style.css" => "158702678543901","/local/templates/gallato/components/bitrix/sale.basket.basket/main/themes/blue/style.css" => "1587026785592",); ?>

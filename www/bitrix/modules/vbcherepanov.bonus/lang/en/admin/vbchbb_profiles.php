@@ -1,0 +1,15 @@
+<?
+$MESS ['VBCHBB_PROFILE_COUNT'] = 'Number of launches';
+$MESS ['VBCHBB_PROFILE_PAGIN'] = 'Loyalty Profiles';
+$MESS ['VBCHBB_PROFILE_CREATE'] = 'Create Profile';
+$MESS ['VBCHBB_PROFILE_CREATE_DESC'] = 'Click to create a profile';
+$MESS ['VBCHBB_PROFILE_TITLE'] = 'Loyalty profile';
+$MESS ['VBCHBONUS_PROFILE_FROM_TO_ID'] = 'Profile ID';
+$MESS ['VBCHBONUS_PROFILE_TYPE'] = 'Profile Type';
+$MESS ['VBCHBONUS_PROFILE_FILT_SITE'] = 'Site';
+$MESS ['VBCHBONUS_PROFILE_ACTIVE'] = 'Activity';
+$MESS ['VBCHBONUS_PROFILE_NAME'] = 'Name';
+$MESS ['VBCHBONUS_PROFILE_ACTIVE_Y'] = 'Yes';
+$MESS ['VBCHBONUS_PROFILE_ACTIVE_N'] = 'No';
+$MESS ['VBCHBONUS_PROFILE_BONUS'] = 'Bonuses';
+$MESS ['MAIN_ADMIN_LIST_COPY'] = 'Copy';

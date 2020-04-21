@@ -1,0 +1,60 @@
+<!-- кол-во товаров на сумму * руб. -->
+<?if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED!==true) die();
+/**
+ * @global array $arParams
+ * @global CUser $USER
+ * @global CMain $APPLICATION
+ * @global string $cartId
+ */
+$compositeStub = (isset($arResult['COMPOSITE_STUB']) && $arResult['COMPOSITE_STUB'] == 'Y');
+?>
+
+
+<?
+global $USER;
+$all_items = 0;
+foreach ($arResult["CATEGORIES"]["READY"] as $item) {
+	//echo "<pre>"; var_dump(); echo "</pre>";
+	$all_items += intval($item["QUANTITY"]);
+}
+//echo $all_items;
+?>
+<a href="/cart/" class="cart">
+
+
+
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M20.6853 18.0211L19.746 9.08836C19.6247 7.99696 18.7051 7.17389 17.607 7.17389H16.0013C15.9018 5.39799 15.4339 3.74172 14.6586 2.44948C13.7108 0.869902 12.4114 0 10.9997 0C9.58805 0 8.28867 0.869902 7.34096 2.44952C6.56563 3.74176 6.09783 5.39804 5.99827 7.17393H4.39265C3.2945 7.17393 2.37497 7.997 2.2532 9.09266L1.3148 18.0169C1.07882 20.1409 2.74412 22 4.87979 22H17.1199C19.2639 22 20.9196 20.1307 20.6853 18.0211ZM10.9997 1.43477C12.8096 1.43477 14.3578 3.99682 14.5633 7.17389H13.1519C13.1519 6.38275 12.5083 5.73912 11.7172 5.73912H10.2824C9.49124 5.73912 8.84761 6.38275 8.84761 7.17389H7.43622C7.64174 3.99682 9.18994 1.43477 10.9997 1.43477ZM11.7172 7.17393V10.4637L10.9997 11.1812L10.2824 10.4637V7.17389L11.7171 7.17295C11.7172 7.17295 11.7172 7.17329 11.7172 7.17393ZM17.1198 20.5652H4.87979C3.60336 20.5652 2.59845 19.4562 2.74124 18.1711L3.67967 9.24692C3.72015 8.88306 4.02665 8.60866 4.39265 8.60866H8.84757V10.7608C8.84757 10.9511 8.92315 11.1336 9.05773 11.2681L10.4925 12.7029C10.7727 12.983 11.2269 12.983 11.507 12.7029L12.9418 11.2681C13.0763 11.1335 13.152 10.9511 13.152 10.7608V8.60866H17.6069C17.9729 8.60866 18.2795 8.88306 18.3194 9.24266L19.2588 18.1754C19.4005 19.4496 18.4013 20.5652 17.1198 20.5652Z" fill="#252525"/>
+</svg>
+
+
+
+<? if ($USER->IsAuthorized()) { ?>
+		<span><?=$all_items?></span>
+<?}?>
+
+	
+
+</a>
+
+
+<?
+/*
+<div class="basket_area">
+
+	<? if (!$compositeStub) {
+			if ($arParams['SHOW_NUM_PRODUCTS'] == 'Y' && ($arResult['NUM_PRODUCTS'] > 0 || $arParams['SHOW_EMPTY_VALUES'] == 'Y')) {
+				echo $arResult['NUM_PRODUCTS'].' '.$arResult['PRODUCT(S)'];
+
+				if ($arParams['SHOW_TOTAL_PRICE'] == 'Y') {
+					?>
+					<br <? if ($arParams['POSITION_FIXED'] == 'Y'): ?>class="hidden-xs"<? endif; ?>/>
+					<span>
+						<?=GetMessage('TSB1_TOTAL_PRICE')?> <strong><?=$arResult['TOTAL_PRICE']?></strong>
+					</span>
+					<?
+				}
+			}
+		} ?>
+</div>
+*/?>

@@ -1,0 +1,23 @@
+<?
+$MESS['VBCH_BB_SAA_USER1']='Пользователь';
+$MESS['VBCHBB_SAA_SUM']='Запрошено на выплату';
+$MESS['VBCHBB_SAA_SUMBONUS']='Сумма на счету';
+$MESS['VBCHBB_SAA_REKV_USER']='Реквизиты для выплаты';
+$MESS['VBCH_BB_SAA_LID']='Сайт';
+$MESS['VBCH_BB_SAA_ACTIVE']='Активность';
+$MESS['VBCH_BB_SAA_ACTIVE_Y']='Да';
+$MESS['VBCH_BB_SAA_ACTIVE_N']='Нет';
+$MESS['VBCHBB_SAAN_BACK_DATE']='Дата вывода';
+$MESS['VBCHBB_SAAN_BACK_PERIOD']='Период вывода';
+$MESS['VBCHBB_SAAN_DESCRIPTION']='Комментарий';
+$MESS['VBCHBB_SAAN_STATUS']='Статус';
+$MESS['VBCHBB_SAAN_STATUS_1']='Начислено';
+$MESS['VBCHBB_SAAN_STATUS_2']='Оплачено';
+$MESS['VBCHBB_SAAN_STATUS_3']='Отмена';
+$MESS['bonus_act_del']='Удалить';
+$MESS['bonus_act_ACT_Y']='Активировать';
+$MESS['bonus_act_ACT_Т']='Деактивировать';
+$MESS['bonus_act_status1']='Начислить';
+$MESS['bonus_act_status2']='Оплатить';
+$MESS['bonus_act_status3']='Отменить';
+$MESS['bonus_act_del_conf1']='Удалить текущую запись?';

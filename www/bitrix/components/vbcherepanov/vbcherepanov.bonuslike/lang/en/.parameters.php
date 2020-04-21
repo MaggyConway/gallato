@@ -1,0 +1,3 @@
+<?php
+$MESS["VBCH_BONUSLIKE_NAME"]="Name";
+$MESS["VBCH_BONUSLIKE_DESCR"]="Description";

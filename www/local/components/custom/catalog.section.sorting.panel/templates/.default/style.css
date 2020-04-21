@@ -1,0 +1,113 @@
+/*.b-sorting-panel{
+    margin-bottom: 30px;
+    background: #f1f1f1;
+    height: 50px;
+}
+.b-sorting-view-style{
+    height: 100%;
+}
+.b-sorting-view-style a{
+    display: inline-block;
+    vertical-align: middle;
+    width: 64px;
+    height: 100%;
+    border-right: 1px solid #e2e2e2;
+}
+.b-sorting-view-style a.b-grid{
+    background: url("img/plitki-innactive.png") no-repeat center center;
+}
+.b-sorting-view-style a.b-grid:hover,
+.b-sorting-view-style a.b-grid:active,
+.b-sorting-view-style a.b-grid.active{
+    background: url("img/plitki.png") no-repeat center center;
+}
+.b-sorting-view-style a.b-list{
+    background: url("img/list-innactive.png") no-repeat center center;
+}
+.b-sorting-view-style a.b-list:hover,
+.b-sorting-view-style a.b-list:active,
+.b-sorting-view-style a.b-list.active{
+    background: url("img/list.png") no-repeat center center;
+}
+.b-sorting-panel .b-sorting-name{
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+.b-sorting-panel .b-alphabet{
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.b-sorting-panel .b-alphabet a{
+    /*background: url("img/arrow-active-down.png") no-repeat right center;*/
+    padding-right: 15px;
+    color: #171717;
+}
+.b-sorting-panel .b-alphabet a.active{
+    background: url("img/arrow-active-down.png") no-repeat right center;
+    padding-right: 15px;
+    color: #f95318;
+}
+.b-sorting-panel .b-alphabet a.active.desc{
+    background: url("img/arrow-active-up.png") no-repeat right center;
+}
+.b-sorting-panel .b-price-sorting{
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.b-sorting-panel .b-price-sorting a{
+    /*background: url("img/arrow-active-down.png") no-repeat right center;*/
+    padding-right: 15px;
+    color: #171717;
+}
+.b-sorting-panel .b-price-sorting a.active{
+    background: url("img/arrow-active-down.png") no-repeat right center;
+    padding-right: 15px;
+    color: #f95318;
+}
+.b-sorting-panel .b-price-sorting a.active.desc{
+    background: url("img/arrow-active-up.png") no-repeat right center;
+}
+.b-sorting-panel .b-sorting-el{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-right: 15px;
+}
+.b-sorting-panel .b-sorting-el > div{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    padding: 13px 0;
+}
+.b-sorting-panel .b-sorting-el .b-sorting-el-name span{
+    color: #f95318;
+    padding: 0 15px 0 10px;
+    background: url("img/arrow-active-down.png") no-repeat right 8px;
+    cursor: pointer;
+}
+.b-sorting-panel a:hover{
+    text-decoration: none;
+    color: inherit;
+}
+.b-sorting-el-dropdown{
+    position: absolute;
+    z-index: 100;
+    background: #fff;
+    border: 1px solid #e1e1e1;
+    width: 100%;
+    display: none;
+}
+.b-sorting-el-dropdown ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.b-sorting-el-dropdown ul li{
+    cursor: pointer;
+    padding: 0 10px;
+}
+.b-sorting-el-dropdown ul li:hover{
+    background: #f1f1f1;
+}*/

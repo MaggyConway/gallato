@@ -1,0 +1,23 @@
+<?
+$MESS ['VBCH_BB_SAA_USER1'] = 'User';
+$MESS ['VBCHBB_SAA_SUM'] = 'Requested for payment';
+$MESS ['VBCHBB_SAA_SUMBONUS'] = 'Amount in the account';
+$MESS ['VBCHBB_SAA_REKV_USER'] = 'Details for payment';
+$MESS ['VBCH_BB_SAA_LID'] = 'Site';
+$MESS ['VBCH_BB_SAA_ACTIVE'] = 'Activity';
+$MESS ['VBCH_BB_SAA_ACTIVE_Y'] = 'Yes';
+$MESS ['VBCH_BB_SAA_ACTIVE_N'] = 'No';
+$MESS ['VBCHBB_SAAN_BACK_DATE'] = 'Date of display';
+$MESS ['VBCHBB_SAAN_BACK_PERIOD'] = 'Output period';
+$MESS ['VBCHBB_SAAN_DESCRIPTION'] = 'Comment';
+$MESS ['VBCHBB_SAAN_STATUS'] = 'Status';
+$MESS ['VBCHBB_SAAN_STATUS_1'] = 'Charged';
+$MESS ['VBCHBB_SAAN_STATUS_2'] = 'Paid';
+$MESS ['VBCHBB_SAAN_STATUS_3'] = 'Cancel';
+$MESS ['bonus_act_del'] = 'Delete';
+$MESS ['bonus_act_ACT_Y'] = 'Activate';
+$MESS ['bonus_act_ACT_T'] = 'Deactivate';
+$MESS ['bonus_act_status1'] = 'Charge';
+$MESS ['bonus_act_status2'] = 'Pay';
+$MESS ['bonus_act_status3'] = 'Cancel';
+$MESS ['bonus_act_del_conf1'] = 'Delete current entry?';

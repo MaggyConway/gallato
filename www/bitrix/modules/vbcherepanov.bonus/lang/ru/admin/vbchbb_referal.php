@@ -1,0 +1,17 @@
+<?
+$MESS['VBCHBONUS_PROFILE_ACTIVE']='Активность';
+$MESS['VBCHBONUS_PROFILE_LID']='Сайт';
+$MESS['VBCHBONUS_PROFILE_REFFROM']='Рефералодатель';
+$MESS['VBCHBONUS_PROFILE_USERID']='Пользователь';
+$MESS['VBCHBONUS_PROFILE_REFERER']='Реф.код';
+$MESS['VBCHBONUS_PROFILE_ACTIVE_Y']='Да';
+$MESS['VBCHBONUS_PROFILE_ACTIVE_N']='Нет';
+$MESS["VBCHBB_SAA_USER"]="Пользователь";
+$MESS["VBCHBB_SAA_USER_INFO"]="Профайл пользователя";
+$MESS["VBCHBB_SAA_MAILTO"]="Написать письмо";
+$MESS['VBCH_REFERAL_ADD_C']='Добавить запись';
+$MESS['VBCHBONUS_PROFILE_ADDRECORDTYPE']='Тип добавления записи';
+$MESS['VBCHBONUS_PROFILE_ADDRECORDTYPE_0']='По купону';
+$MESS['VBCHBONUS_PROFILE_ADDRECORDTYPE_1']='Реферальный код';
+$MESS['VBCHBONUS_PROFILE_ADDRECORDTYPE_2']='В адм. разделе (вручную)';
+$MESS['VBCHBONUS_PROFILE_ADDRECORDTYPE_3']='Авторизация со спонсором';

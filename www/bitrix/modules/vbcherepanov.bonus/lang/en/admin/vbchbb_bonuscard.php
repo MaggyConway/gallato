@@ -1,0 +1,20 @@
+<?php
+$MESS ['VBCHBB_SAACARD_NAV'] = 'Bonus Cards';
+$MESS ['VBCHBB_BONUSCARD_TIMESTAMP'] = 'Changed';
+$MESS ['VBCHBB_BONUSCARD_LID'] = 'Site';
+$MESS ['VBCHBB_BONUSCARD_ACTIVE'] = 'Activity';
+$MESS ['VBCHBB_BONUSCARD_USERID'] = 'User';
+$MESS ['VBCHBB_BONUSCARD_NUM'] = 'Card Number';
+$MESS ['VBCH_BONUSCARD_YES'] = 'Yes';
+$MESS ['VBCH_BONUSCARD_NO'] = 'No';
+$MESS ['VBCHBB_SAA_USER_INFO'] = 'User Information';
+$MESS ['VBCHBB_SAA_MAILTO'] = 'Write to user';
+$MESS ['bonus_card_act_del'] = 'Delete';
+$MESS ['bonus_card_act_del_conf'] = 'Do you really want to remove the card?';
+$MESS ['bonus_card_act_active'] = 'Activate';
+$MESS ['VBCHBB_CARD_USER_ID'] = 'User';
+$MESS ['VBCHBB_CARD_FILTERLID'] = 'Site';
+$MESS ['VBCH_AFF_ADD_CARD'] = 'Add Card';
+$MESS ['VBCH_AFF_IMPORT_CARD'] = 'Import Card List (* .cvs)';
+$MESS ['VBCHBB_BONUSCARD_BONUSACCOUNTS'] = 'Linked Account';
+$MESS ['VBCHBB_BONUSCARD_DEFAULTBONUS'] = 'Number of bonuses when activated';

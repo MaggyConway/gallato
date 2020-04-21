@@ -1,0 +1,2 @@
+<?
+echo 'Dont no support!'

@@ -1,0 +1,12 @@
+<?
+$MESS["TMP_ENTITY_ID_FIELD"] = "ID";
+$MESS["TMP_ENTITY_TIMESTAMP_X_FIELD"] = "Время создания,обновления";
+$MESS["TMP_ENTITY_LID_FIELD"] = "Сайт";
+$MESS["TMP_ENTITY_ACTIVE_FIELD"] = "Активность";
+$MESS["TMP_ENTITY_BONUS_FIELD"] = "Бонус";
+$MESS["TMP_ENTITY_USERID_FIELD"] = "Пользователь";
+$MESS["TMP_ENTITY_ACTIVE_FROM_FIELD"] = "Активно с";
+$MESS["TMP_ENTITY_ACTIVE_TO_FIELD"] = "Активно по";
+$MESS["TMP_ENTITY_DESCRIPTION_FIELD"] = "Описание";
+$MESS["TMP_ENTITY_TYPE_FIELD"] = "Тип";
+$MESS["TMP_ENTITY_OPTIONS_FIELD"] = "Опции";

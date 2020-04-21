@@ -1,0 +1,20 @@
+<?php
+$MESS['VBCHBB_SAACARD_NAV']='Бонусные карты';
+$MESS['VBCHBB_BONUSCARD_TIMESTAMP']='Изменено';
+$MESS['VBCHBB_BONUSCARD_LID']='Сайт';
+$MESS['VBCHBB_BONUSCARD_ACTIVE']='Активность';
+$MESS['VBCHBB_BONUSCARD_USERID']='Пользователь';
+$MESS['VBCHBB_BONUSCARD_NUM']='Номер карты';
+$MESS['VBCH_BONUSCARD_YES']='Да';
+$MESS['VBCH_BONUSCARD_NO']='Нет';
+$MESS['VBCHBB_SAA_USER_INFO']='Информация пользователя';
+$MESS['VBCHBB_SAA_MAILTO']='Написать пользователю';
+$MESS['bonus_card_act_del']='Удалить';
+$MESS['bonus_card_act_del_conf']='Вы действительно хотите удалить карту?';
+$MESS['bonus_card_act_active']='Активировать';
+$MESS['VBCHBB_CARD_USER_ID']='Пользователь';
+$MESS['VBCHBB_CARD_FILTERLID']='Сайт';
+$MESS['VBCH_AFF_ADD_CARD']='Добавить карту';
+$MESS['VBCH_AFF_IMPORT_CARD']='Импорт списка карт (*.cvs)';
+$MESS['VBCHBB_BONUSCARD_BONUSACCOUNTS']='Привязанный счет';
+$MESS['VBCHBB_BONUSCARD_DEFAULTBONUS']='Количество бонусов при активации';

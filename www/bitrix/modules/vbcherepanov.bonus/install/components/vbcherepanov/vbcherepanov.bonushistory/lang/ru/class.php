@@ -1,0 +1,49 @@
+<?php
+$MESS['VBCHBB_COMP_NOT_MODULE']="Модуль Cистема бонусов (программа лояльности) не установлен";
+$MESS['VBCHBB_COMP_NOTSETTINGS']="Нет настроек модуля для данного сайта";
+$MESS['VBCHBB_BONUS_SUMMA']="Сумма заказов за ";
+$MESS['VBCH_BONUS_TIME_C']=' часов';
+$MESS['VBCH_BONUS_TIME_D']=' дней';
+$MESS['VBCH_BONUS_TIME_N']=' недель';
+$MESS['VBCH_BONUS_TIME_M']=' месяцев';
+$MESS['VBCH_BONUS_TIME_L']=' лет';
+$MESS['VBCH_BONUS_TIME_W']=' неделю';
+$MESS['VBCH_BONUS_TIME_2W']=' 2 недели';
+$MESS['VBCH_BONUS_TIME_M']=' месяц';
+$MESS['VBCH_BONUS_TIME_3M']=' 3 месяца';
+$MESS['VBCH_BONUS_TIME_6M']=' полгода';
+$MESS['VBCH_BONUS_TIME_Y']=' лет (год)';
+$MESS['VBCHBONUS_COM_LIVE_A']="всегда";
+$MESS['VBCHBONUS_COM_LIVE_D']="дней";
+$MESS['VBCHBONUS_COM_LIVE_W']="недель";
+$MESS['VBCHBONUS_COM_LIVE_M']="месяцев";
+$MESS['VBCHBONUS_COM_LIVE_Y']="лет";
+$MESS['VBCHBONUS_COMP_ZA']=' за ';
+$MESS['VBCHBONUS_COMP_BONUS']='бонус:';
+
+$MESS['VBCHBONUS_COMP_C1']="час";
+$MESS['VBCHBONUS_COMP_CD2']="часа";
+$MESS['VBCHBONUS_COMP_c3']="часов";
+$MESS['VBCHBONUS_COMP_D1']="день";
+$MESS['VBCHBONUS_COMP_D2']="дня";
+$MESS['VBCHBONUS_COMP_D3']="дней";
+$MESS['VBCHBONUS_COMP_N1']="неделя";
+$MESS['VBCHBONUS_COMP_N2']="неделю";
+$MESS['VBCHBONUS_COMP_N3']="недель";
+$MESS['VBCHBONUS_COMP_W1']="неделя";
+$MESS['VBCHBONUS_COMP_W2']="неделю";
+$MESS['VBCHBONUS_COMP_W3']="недель";
+$MESS['VBCHBONUS_COMP_M1']="месяц";
+$MESS['VBCHBONUS_COMP_M2']="месяца";
+$MESS['VBCHBONUS_COMP_M3']="месяцев";
+$MESS['VBCHBONUS_COMP_Y1']="год";
+$MESS['VBCHBONUS_COMP_Y2']="года";
+$MESS['VBCHBONUS_COMP_Y3']="лет";
+$MESS['VBCHBONUS_COMP_L1']="год";
+$MESS['VBCHBONUS_COMP_L2']="года";
+$MESS['VBCHBONUS_COMP_L3']="лет";
+
+$MESS['VBCHBONUS_COMP_REVIEW1']="отзыв";
+$MESS['VBCHBONUS_COMP_REVIEW2']="отзыва";
+$MESS['VBCHBONUS_COMP_REVIEW3']="отзывов";
+?>

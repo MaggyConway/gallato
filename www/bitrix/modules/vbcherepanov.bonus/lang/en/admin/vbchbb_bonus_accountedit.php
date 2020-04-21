@@ -1,0 +1,36 @@
+<?
+$MESS ['VBCHBB_ACCOUNT_EDIT_NO_PERMS2ADD'] = "You do not have sufficient permissions to add a new account";
+$MESS ['VBCHBB_ACCOUNT_EDIT_EMPTY_USER'] = "The \" User \" field is empty";
+$MESS ['VBCHBB_ACCOUNT_EDIT_EMPTY_CURRENCY'] = "The \" Currency \" field is not filled";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ALREADY_EXISTS'] = "User account ## USER # already exists";
+$MESS ['VBCHBB_ACCOUNT_EDIT_NO_ACCOUNT'] = "Account ## ID # not found";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ERROR_SAVING'] = "Error saving account";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ERROR_SAVING_SUM'] = "Error saving account. Please check if the amount in the account is correct";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ERROR_SAVING_COMMENT'] = "Error saving comment to account";
+$MESS ['VBCHBB_ACCOUNT_EDIT_UPDATING'] = "Change Account Settings";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ADDING'] = "Adding a new account";
+$MESS ['VBCHBB_ACCOUNT_EDIT_TO_LIST'] = "List of Accounts";
+$MESS ['VBCHBB_ACCOUNT_EDIT_TIMESTAMP'] = "Last Modified Date:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_USER1'] = "User:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_USER_PROFILE'] = "User Profile";
+$MESS ['VBCHBB_ACCOUNT_EDIT_SUM'] = "Account amount:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_UNLOCK'] = "Unlock budget:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_LOCK'] = "Block budget:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_LOCKED'] = "(Locked";
+$MESS ['VBCHBB_ACCOUNT_EDIT_NOTES'] = "Notes:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_OSN'] = "The basis for changing the amount on the account:";
+$MESS ['VBCHBB_ACCOUNT_EDIT_OSN_NOTE'] = "(filled in case of change)";
+$MESS ['VBCHBB_ACCOUNT_EDIT_SAVE'] = "Save";
+$MESS ['VBCHBB_ACCOUNT_EDIT_SAVE_ADD'] = "Add";
+$MESS ['VBCHBB_ACCOUNT_EDIT_APPLY'] = "Apply";
+$MESS ['VBCHBB_ACCOUNT_EDIT_CANCEL'] = "Reset";
+$MESS ['VBCHBB_ACCOUNT_EDITN_2FLIST'] = "List of Accounts";
+$MESS ['VBCHBB_ACCOUNT_EDITN_2FLIST_TITLE'] = "View a list of accounts";
+$MESS ['VBCHBB_ACCOUNT_EDITN_NEW_ACCOUNT'] = "Add Account";
+$MESS ['VBCHBB_ACCOUNT_EDITN_NEW_ACCOUNT_TITLE'] = "Create a new account";
+$MESS ['VBCHBB_ACCOUNT_EDITN_DELETE_ACCOUNT'] = "Delete Account";
+$MESS ['VBCHBB_ACCOUNT_EDITN_DELETE_ACCOUNT_CONFIRM'] = "Are you sure you want to delete this account?";
+$MESS ['VBCHBB_ACCOUNT_EDITN_TAB_ACCOUNT'] = "User Account";
+$MESS ['VBCHBB_ACCOUNT_EDITN_TAB_ACCOUNT_DESCR'] = "User Account";
+$MESS ['VBCHBB_ACCOUNT_EDIT_ERROR'] = "Error saving!";
+?>

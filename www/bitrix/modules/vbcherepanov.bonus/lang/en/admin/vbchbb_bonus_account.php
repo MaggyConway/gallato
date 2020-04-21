@@ -1,0 +1,20 @@
+<?
+$MESS ["VBCHBB_SAA_NAV"] = "Bonus Accounts";
+$MESS ["VBCH_BB_SAA_USER1"] = "User";
+$MESS ["VBCHBB_SAA_SUM"] = "Number of bonuses";
+$MESS ["VBCHBB_SAAN_TRANSACT"] = "Transactions";
+$MESS ["VBCHBB_SAA_USER_INFO"] = "User Profile";
+$MESS ["VBCHBB_SAA_MAILTO"] = "Write a letter";
+$MESS ["VBCHBB_SAA_USER_ID"] = "User ID";
+$MESS ["VBCHBB_SAA_USER_LOGIN"] = "User login";
+$MESS ["VBCHBB_SAA_CURRENCY"] = "Currency";
+$MESS ["VBCHBB_SAA_USER"] = "User";
+$MESS ["SAA_TITLE"] = "User bonuses";
+$MESS ["BB_ADD_TITLE"] = "Add user account";
+$MESS ["VBCH_BB_ADD_C"] = "Add Account";
+$MESS ["bonus_act_edit"] = "Edit account";
+$MESS ["bonus_act_del"] = "Delete account";
+$MESS ["bonus_del_err"] = "Error deleting";
+$MESS ["bonus_act_del_conf"] = "Do you really want to delete the bonus account?";
+$MESS ['VBCHBB_SAAN_TRANSACTUSER'] = 'User Transactions';
+$MESS ['VBCHBB_SAAN_BONUSACCOUNTSID'] = 'Bonus Account';

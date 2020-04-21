@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/gallato/components/custom/system.auth.form/main/style.css" => "1587026786424","/local/components/custom/system.auth.registration.rozn/templates/.default/style.css" => "1587026786426","/local/components/custom/system.auth.registration.opt/templates/.default/style.css" => "1587026786426",); ?>

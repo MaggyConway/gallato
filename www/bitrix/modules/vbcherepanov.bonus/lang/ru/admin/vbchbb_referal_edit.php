@@ -1,0 +1,20 @@
+<?php
+$MESS['VBCHBB_REFERAL_EDIT_EMPTY_USER']='НЕ указан пользователь';
+$MESS['VBCHBB_REFERAL_EDIT_UPDATING']='Редактировать запись';
+$MESS['VBCHBB_REFERAL_EDIT_ADDING']='Добавить запись';
+$MESS['VBCHBB_REFERAL_EDIT_ACTIVE']='Активность';
+$MESS['VBCHBB_REFERAL_EDIT_TIMESTAMP']='Обновлено';
+$MESS['VBCHBB_REFERAL_EDIT_USERID']='Пользователь';
+$MESS['VBCHBB_REFERAL_EDIT_REFFROM']='Рефералодатель';
+$MESS['VBCHBB_REFERAL_EDIT_DUBLE_USER']='Пользователь не может быть сразу рефералодателем (одинаковые значения)';
+$MESS['VBCHBB_REFERAL_EDIT_REFCODE']='Реферальный код';
+$MESS['VBCHBB_REFERAL_EDIT_REFCODE_BAD']='Не рекоммендуется править';
+$MESS['VBCHBB_REFERAL_EDIT_COOKIE']='Запись COOKIE пользователя';
+$MESS['VBCHBB_REFERAL_EDIT_SITEID']='Привязка к сайту';
+$MESS['VBCHBB_REFERAL_EDIT_ERROR']='Ошибка редактирования';
+$MESS['VBCHBB_REFERAL_EDITN_2FLIST']='Назад к списку';
+$MESS['VBCHBB_REFERAL_EDITN_NEW_ACCOUNT']='Новая запись';
+$MESS['VBCHBB_REFERAL_EDITN_DELETE_ACCOUNT']='Удалить запись';
+$MESS['VBCHBB_REFERAL_EDITN_DELETE_ACCOUNT_CONFIRM']='Вы действительно хотите удалить эту запись?';
+$MESS['VBCHBB_REFERAL_EDITN_TAB_ACCOUNT']='Редактировать запись';
+$MESS['VBCHBB_REFERAL_EDIT_DUBLE_USER1']='Данный пользователь уже внесен в базу';

@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/gallato/components/bitrix/sale.order.ajax/order/script.js" => "15870267856461","/local/templates/gallato/components/bitrix/sale.order.ajax/order/order_ajax.js" => "1587026785147143","/bitrix/components/bitrix/sale.location.selector.steps/templates/.default/script.js" => "15870268197752",); ?>

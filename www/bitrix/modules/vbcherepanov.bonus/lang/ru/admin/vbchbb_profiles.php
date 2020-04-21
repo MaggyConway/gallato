@@ -1,0 +1,15 @@
+<?
+$MESS['VBCHBB_PROFILE_COUNT']='Кол-во запусков';
+$MESS['VBCHBB_PROFILE_PAGIN']='Профилей лояльности';
+$MESS['VBCHBB_PROFILE_CREATE']='Создать профиль';
+$MESS['VBCHBB_PROFILE_CREATE_DESC']='Нажмите чтобы создать профиль';
+$MESS['VBCHBB_PROFILE_TITLE']='Профиль лояльности';
+$MESS['VBCHBONUS_PROFILE_FROM_TO_ID']='ID профиля';
+$MESS['VBCHBONUS_PROFILE_TYPE']='Тип профиля';
+$MESS['VBCHBONUS_PROFILE_FILT_SITE']='Сайт';
+$MESS['VBCHBONUS_PROFILE_ACTIVE']='Активность';
+$MESS['VBCHBONUS_PROFILE_NAME']='Название';
+$MESS['VBCHBONUS_PROFILE_ACTIVE_Y']='Да';
+$MESS['VBCHBONUS_PROFILE_ACTIVE_N']='Нет';
+$MESS['VBCHBONUS_PROFILE_BONUS']='Бонусы';
+$MESS['MAIN_ADMIN_LIST_COPY']='Копировать';

@@ -1,0 +1,1 @@
+<?require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/vbcherepanov.orderdone/admin/vbchod_profile_list.php");?>
